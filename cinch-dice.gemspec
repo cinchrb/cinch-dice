@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name = 'cinch-dice'
-  s.version = '0.0.2'
+  s.version = '0.0.3'
   s.summary = 'Dice plugin, perfect for role-playing games or generic decision making.'
   s.description = s.summary
   s.authors = ['Dominik Honnef']
